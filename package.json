@@ -1,0 +1,11 @@
+{
+  "name": "umprojetoai",
+  "version": "0.1",
+  "main": "index.js",
+  "repository": "git@github.com:leandrogrillo/umprojetoai.git",
+  "author": "leandrogrillo <hi@leandrogrillo.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.23.0"
+  }
+}
