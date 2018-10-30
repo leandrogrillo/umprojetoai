@@ -1,3 +1,5 @@
 # umprojetoai
 
-um dia deve sair
+um dia deve sair.
+
+Acredito que vai ser em 2019.
